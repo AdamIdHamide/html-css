@@ -1,0 +1,9 @@
+#my-p {
+    property:value;
+    propertytwo:value;
+}
+
+p {
+    color: rgb(77, 255, 0);
+    font-size: 90px;
+}
