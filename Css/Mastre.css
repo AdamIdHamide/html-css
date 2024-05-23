@@ -1,23 +1,6 @@
-div{
-    padding: 15px;
-    width: 9%;
-    background-color: #EEE;
-    /* margin: top right bottom left; */
-    margin:10px auto;
-}
-.one {
-    border-bottom: 2px solid aqua;
-    color:red ;
-}
-.two {
-    border-bottom: 2px solid hsl(103, 100%, 50%);
-    color:rgb(251, 0, 255) ;
-}
-.thre {
-    border-bottom: 2px solid rgb(255, 200, 0);
-    color:rgb(0, 195, 255) ;
-}
-.fore {
-    border-bottom: 2px solid rgb(255, 0, 0);
-    color:rgb(255, 213, 0) ;
+.rr{
+    background-image: url("../Css/download.jpeg");
+    font-size: 189px;
+    background-repeat: repeat ;
+    color: coral;
 }
