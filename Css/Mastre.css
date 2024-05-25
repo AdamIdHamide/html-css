@@ -4,4 +4,6 @@
     color: coral;
     background-attachment:fixed ;
     background-position:left  ;
+    margin: 0;
+    padding: 40px;
 }
