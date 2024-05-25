@@ -1,6 +1,7 @@
 .rr{
     background-image: url("../Css/download.jpeg");
-    font-size: 189px;
-    background-repeat: repeat ;
+    background-repeat: repeat-y ;
     color: coral;
+    background-attachment:fixed ;
+    background-position:left  ;
 }
