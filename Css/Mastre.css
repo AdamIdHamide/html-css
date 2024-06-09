@@ -3,11 +3,11 @@
     padding: 0px;
 }
 p{
-    background-color:rgb(255, 111, 0);
-    color: rgb(255, 247, 0);
+    background-color:#3ABEF9;
+    color: #3572EF;
     height: 10vh;
     font-size: 60px;
     padding-bottom:20px ;
     text-indent:70px;
-    text-shadow: -7px -7px 6px rgb(0, 42, 255);
+    text-shadow: -7px -7px 6px #050C9C;
 }
