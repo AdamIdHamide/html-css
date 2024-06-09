@@ -1,9 +1,13 @@
-.rr{
-    background-image: url("../Css/download.jpeg");
-    background-repeat: repeat-y ;
-    color: coral;
-    background-attachment:fixed ;
-    background-position:left  ;
-    margin: 0;
-    padding: 40px;
+* {
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    background-color:rgb(255, 111, 0);
+    color: rgb(255, 247, 0);
+    height: 10vh;
+    font-size: 60px;
+    padding-bottom:20px ;
+    text-indent:70px;
+    text-shadow: -7px -7px 6px rgb(0, 42, 255);
 }
